@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0024cb57-14f5-44cb-833f-f5c48cd5fb6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gwRXSe60IsjiL4Ff4EhPKVxcKC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0024cb57-14f5-44cb-833f-f5c48cd5fb6c" name="Default Changelist" comment="" />
+      <created>1599023708814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599023708814</updated>
+      <workItem from="1599023710378" duration="10525000" />
+      <workItem from="1599283083650" duration="4672000" />
+      <workItem from="1599440883784" duration="904000" />
+      <workItem from="1599446644316" duration="133000" />
+      <workItem from="1599529065045" duration="1850000" />
+      <workItem from="1599532604376" duration="2131000" />
+      <workItem from="1599732283526" duration="622000" />
+      <workItem from="1599806613842" duration="4223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
